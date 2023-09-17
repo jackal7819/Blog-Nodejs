@@ -14,7 +14,7 @@ My Node.js blog is a powerful application that allows people to create, edit, an
 - **Mongoose**: A library for working with MongoDB using Node.js.
 - **REST API**: An architectural style for developing web services.
 
-### Demo - https://quiz-62d2.onrender.com
+### Demo - https://blog-backend-my-3fbe9b1719e3.herokuapp.com
 
 ## Getting Started
 
